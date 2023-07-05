@@ -1,0 +1,31 @@
+table{
+    border-collapse: collapse;
+    font-family: arial, sans-serif;
+}
+tr,td{
+    border: 0.5px solid black;
+    text-align: left;
+    padding: 15px;
+    width:150px;
+}
+form{
+    margin-top: 200px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.heading{
+    font-size: 1.1rem;
+    font-weight:bold;
+    background-color: #dddddd;
+}
+button{
+    margin-top:40px;
+    width:150px;
+    height:30px;
+    margin-left: 50px;
+}
+span{
+    margin-left:400px;
+}
